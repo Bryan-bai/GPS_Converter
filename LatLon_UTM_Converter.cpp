@@ -1,3 +1,7 @@
+// Copyright 2020 DriveX.Tech. All rights reserved.
+// 
+// Licensed under the License.
+
 #include <math.h>
 #include <stdio.h>
 #include <assert.h>
