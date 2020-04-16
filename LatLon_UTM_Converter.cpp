@@ -46,6 +46,8 @@ int LatLonUTMConverter::lon_to_zone_number(double lat, double lon)
             zone_number = 37;
         }
     }
+
+    return zone_number;
 }
 
 static int zone_number_to_central_lon(int zone_number)
